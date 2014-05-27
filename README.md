@@ -140,6 +140,10 @@ And so on. These are of course very basic examples - the point of this is not to
 * Html.html (yep, html-dot-html, like that...)
 * Default.html
 
+## TEXT WITH IMAGE - Not Build-in content element
+
+Text with image is a very complex element with lots of (in our opinion useless) options. As you can see in CSC it takes a lot to get to this element until it is useful to everyone. This also means adapting this element to your needs is a complex thing too. Another point is, that some of us dont want the editor to have such a lot of options to place a text with image on a webpage. Most of the options will not look like the screendesigner planned them to look like and - again - disabling all the options is work too. So this element was elected to be skipped and we leave it up to everyone on how to handle this. You will be able to create an element what will fit your needs. Most of us would prefer to seperate text from image completely and for example create container elements to place text with image in there. 
+
 ## Plans for future improvements
 
 1. Finish the basic set of included templates to make a fallback-quality rendering
